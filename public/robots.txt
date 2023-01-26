@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /private
+
+The robots.txt file is a simple text file that is placed in the root directory of a website.
+It is used to communicate with web crawlers that visit your website to inform them which pages or sections of your site should not be crawled or indexed.
